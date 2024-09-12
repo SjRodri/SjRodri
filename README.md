@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Sayd Rodriguez👋</h1>
 </div>
-<img src="https://imgur.com/a/c1Hh8Xf">
+<img src="https://i.imgur.com/weNbhGZ.png">
 
 ## Sobre mi
 
