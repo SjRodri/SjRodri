@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Sayd Rodriguez👋</h1>
+</div>
+<img src="https://imgur.com/a/c1Hh8Xf">
 
-<!--
-**SjRodri/SjRodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- ✏️  Actualmente Cursando clases en la Universidad
+- 📗  Mi enfoque está en el aprendizaje continuo de tecnologías emergentes, con el objetivo de desarrollar habilidades que me permitan destacar en el campo de la informática y la tecnología.
+- 🧑‍🏫  Ademas de mi aprendizaje universitario actualmente estoy estudiando cursos virtuales de: JavaScript,Java,TypeScript,Legacy-Node,Nest y Angular.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Manual Cabañas Fincasa</h3>
+<div align="center">
+<a href="https://manualfincasa.netlify.app/" target="_blank"><img src="https://imgur.com/a/A3RBhs0" width="400" alt="Manual Cabañas Fincasa"></a>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</div>                                                                                
+</td>
+</table>                                                                                 
+</div>
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/SjRodri">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SjRodri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SjRodri&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
