@@ -16,7 +16,7 @@
 <td width="50%">
 <h3 align="center">Manual Cabañas Fincasa</h3>
 <div align="center">
-<a href="https://manualfincasa.netlify.app/" target="_blank"><img src="https://i.imgur.com/a/A3RBhs0.jpg" width="400" alt="Manual Cabañas Fincasa"></a>
+<a href="https://manualfincasa.netlify.app/" target="_blank"><img src="https://i.imgur.com/bZfi5n9.jpeg" width="400" alt="Manual Cabañas Fincasa"></a>
 <p>
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
