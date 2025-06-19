@@ -7,7 +7,7 @@
 
 - ✏️  Actualmente Cursando clases en la Universidad
 - 📗  Mi enfoque está en el aprendizaje continuo de tecnologías emergentes, con el objetivo de desarrollar habilidades que me permitan destacar en el campo de la informática y la tecnología.
-- 🧑‍🏫  Ademas de mi aprendizaje universitario actualmente estoy estudiando cursos virtuales de: JavaScript,Java,TypeScript,Legacy-Node,Nest y Angular.
+- 🧑‍🏫  Ademas de mi aprendizaje universitario actualmente estoy estudiando cursos virtuales para complementar mi aprendizaje.
 <br>
 
 ## Proyectos
